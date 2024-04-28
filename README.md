@@ -1,4 +1,4 @@
-# landing-a-rocket-using-MPC
+# Rocket landing using MPC
 
 A very simple 2D rocket landing using NL-MPC. Has a bad saw-tooth response behaviour, should be corrected.
 
